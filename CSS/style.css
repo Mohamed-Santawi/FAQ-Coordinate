@@ -76,4 +76,7 @@ body {
   font-size: 1.1rem;
   font-weight: 500;
 }
+.attribution a:hover {
+  text-decoration: underline;
+}
 /* End Main Page */
